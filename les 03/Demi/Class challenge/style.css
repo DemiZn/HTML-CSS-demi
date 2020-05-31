@@ -1,0 +1,19 @@
+*{
+    margin: 8px;
+}
+
+.Burgah {
+    color: lightcoral
+}
+
+#Burgah_titel {
+    color: lightseagreen
+}
+
+p {
+    color: darkgrey
+}
+
+body {
+    background-color: lightgoldenrodyellow;
+}
