@@ -1,0 +1,41 @@
+header {
+text-align:center;
+}
+
+.borders {
+margin-left: 570px;
+margin-right: 570px;
+}
+
+body {
+background-repeat: no-repeat;
+background-attachment: fixed; 
+background-position: center;
+background-image: url("https://www.cutpricewallpaper.co.uk/wp-content/uploads/2016/06/wood-grey.jpg");
+}
+
+.Burk {
+margin-bottom: -10px
+}
+
+
+.Burgah {
+color: firebrick
+}
+
+.Sauws {
+color: #1D8348
+}
+
+.Gaar {
+color:#402490
+}
+
+.Brei {
+Border-style: double;
+Padding: 5px;
+}
+
+.Bye {
+color:royalblue;
+}
