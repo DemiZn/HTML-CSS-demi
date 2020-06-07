@@ -1,0 +1,41 @@
+img {
+border-radius: 20px; 
+margin-left: 70%;
+margin-top: -12%;
+height: 40%;
+box-shadow: 10px 10px 5px darkgrey;
+}
+
+.opmaak {
+background-color:#d6f5f5;
+border-style: hidden;
+border-radius: 20px;
+box-shadow: 10px 10px 5px rgb(116, 116, 116);
+padding: 2%;
+margin: 3%
+}
+
+body {
+background-image: url("background\ \(2\).jpg");
+background-repeat: no-repeat;
+background-attachment: fixed
+}
+
+header {
+text-align: center
+}
+
+h4 {
+background-color: darkorchid;
+color: wheat;
+border-radius: 25px;
+margin-left: 40%;
+margin-right: 40%; 
+}
+
+.titel {
+background-color: wheat; 
+border-radius: 25px;
+margin-left: 20%;
+margin-right: 20%;
+}
