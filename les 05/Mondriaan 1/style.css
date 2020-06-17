@@ -1,0 +1,32 @@
+body {
+    margin: 0px;
+}
+
+main {
+    height: 400px;    
+    width: 600px;
+    background: black;
+}
+
+#block-1 {
+    height: 400px;
+    width: 240px;
+    background-color: yellow;
+    float: left
+}
+
+#block-2 {
+    height: 400px;
+    width: 240px;
+    background-color: white;
+    margin-left: 10px;
+    float: left
+}
+
+#block-3 {
+    height: 400px;
+    width: 100px;
+    background-color: red;
+    margin-left: 10px;
+    float: left
+}
